@@ -1,0 +1,10 @@
+[PerfCounters] GameLoop 12.4ms | RenderService 4.2ms | PhysicsService 2.1ms | AudioUpdate 0.5ms |
+[PerfCounters] GameLoop 14.8ms | RenderService 5.1ms | PhysicsService 2.4ms | AudioUpdate 0.6ms |
+[PerfCounters] GameLoop 18.2ms | RenderService 8.2ms | PhysicsService 2.3ms | AudioUpdate 0.7ms |
+[PerfCounters] GameLoop 41.5ms | RenderService 23.0ms | PhysicsService 8.1ms | AudioUpdate 1.2ms |
+[PerfCounters] GameLoop 13.1ms | RenderService 4.5ms | PhysicsService 2.0ms | AudioUpdate 0.4ms |
+[PerfCounters] GameLoop 55.0ms | RenderService 29.0ms | PhysicsService 10.0ms | AudioUpdate 1.5ms |
+[PerfCounters] GameLoop 16.0ms | RenderService 6.0ms | PhysicsService 2.8ms | AudioUpdate 0.6ms |
+[PerfCounters] GameLoop 11.9ms | RenderService 3.8ms | PhysicsService 1.9ms | AudioUpdate 0.4ms |
+[PerfCounters] GameLoop 20.5ms | RenderService 9.0ms | PhysicsService 3.1ms | AudioUpdate 0.8ms |
+[PerfCounters] GameLoop 15.2ms | RenderService 5.4ms | PhysicsService 2.2ms | AudioUpdate 0.5ms |

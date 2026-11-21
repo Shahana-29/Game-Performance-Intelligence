@@ -1,0 +1,3 @@
+Inspired by and compatible with the [PerfCounters] log format of bm01/PerfAnalyzer:
+https://github.com/bm01/PerfAnalyzer
+The upstream repository states Apache License 2.0. Preserve its LICENSE and notices when redistributing a merged fork. This standalone implementation is newly written for this portfolio extension.
